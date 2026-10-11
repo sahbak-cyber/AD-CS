@@ -365,5 +365,5 @@ This project was created for educational and professional portfolio purposes wit
 
 <p>
 <strong>Saheed Bakare</strong><br>
-IT Support Engineer | Cybersecurity & IAM Practitioner
+IT Support Engineer | Cybersecurity Analyst | IAM & Cloud Security Practitioner
 </p>
